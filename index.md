@@ -36,8 +36,10 @@ var fun = function lang(l) {
   return true;
 }
 
-```ruby
+
+ruby
 // 🧪 Synthesizing Ruby dependencies from the deep vaults
 GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
+  s.add_dependency(gem, "= #{version}") {
 end
+}
