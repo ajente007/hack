@@ -2,32 +2,31 @@
 layout: default
 ---
 
-> 💀 Initiating sequence...  
-> System breach log initialized.
+> Initiating sequence...  
+> System breach log.
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.  
-All formatting is weaponized for clarity.
+Text ~~strikethrough~~.
 
 [🧬 Access next node](./another-page.html)
 
 ---
 
-> 💾 Data integrity check complete. White space secured.
+> 💾 Data.
 
 ---
 
-# 🕶️ MAINFRAME ENTRY POINT
+# 🕶️ mainframe entry point
 
 > 🚩 Status: Connected to GitHub's surveillance grid.
 
 GitHub isn't just a platform... it's the gateway. A collaborative nexus for remote operatives working in sync, beyond borders.
 
-## ⚠️ THREAT INTEL // HEADER 2
+## ⚠️ threat intel // 
 
 > ❝ When the signal is strong enough, even silence can be cracked. ❞  
 > _— Sector: Elon Protocols_
 
-## 📁 HEADER 3 — Code Fragments
+## 📁 Code Fragments
 
 ```js
 // 🔐 Injecting localized scripts into system
